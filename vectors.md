@@ -1,187 +1,117 @@
-╔══════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                      ║
-║   🎨  ILLUSTRATIONS & VECTORS  —  Free graphics for your projects                   ║
-║                                                                                      ║
-║   What are vectors/illustrations? Drawings, icons, and graphics (not photos).        ║
-║   Perfect for: website designs, app icons, logos, posters, social media graphics.    ║
-║                                                                                      ║
-╚══════════════════════════════════════════════════════════════════════════════════════╝
+# 🎨 Free Illustrations & Vectors
 
+Drawings, icons, and graphics (not photos). Perfect for website designs, app icons, logos, posters, and social media graphics.
 
-1.  ⭐  UNDRAW
+---
 
-     🔗  https://undraw.co
+## 1. ⭐ unDraw
 
-     What it is:
-     A collection of modern, clean illustrations that you can
-     change the color of to match your brand.
+**🔗 https://undraw.co**
 
-     Why use it:
-     •  Modern, beautiful illustration style
-     •  Change colors to match your brand (just pick a color)
-     •  No account needed
-     •  Very popular in modern web design
+Modern, clean illustrations that you can change the color of to match your brand.
 
-     Best for:
-     Website illustrations, landing pages, app screens, blog graphics
+- **Best for:** Website illustrations, landing pages, app screens, blog graphics
+- **Special:** Change colors to match your brand (just pick a color)
 
-     License:
-     ✅  Free for commercial use
-     ✅  No attribution required
-     ✅  You can edit and modify
+**License:** ✅ Free for commercial use. No attribution needed. You can edit and modify.
 
+---
 
-2.  ⭐  HUMAAANS
+## 2. ⭐ Humaaans
 
-     🔗  https://humaaans.com
+**🔗 https://humaaans.com**
 
-     What it is:
-     A library of human illustrations that you can mix and match.
-     Change body parts, poses, clothes, and styles.
+Mix-and-match human illustrations. Change body parts, poses, clothes, and styles.
 
-     Why use it:
-     •  Customizable people illustrations
-     •  Mix different body parts, poses, and styles
-     •  Great for team pages, about sections, diversity graphics
-     •  No design skills needed
+- **Best for:** People illustrations, team pages, about sections, diversity graphics
+- **Special:** Customizable body parts, poses, and styles
 
-     Best for:
-     People illustrations, team pages, about us sections, diversity content
+**License:** ✅ Free for commercial use (CC0). No attribution needed.
 
-     License:
-     ✅  Free for commercial use (CC0)
-     ✅  No attribution required
+---
 
+## 3. ⭐ Freepik
 
-3.  ⭐  FREEPIK
+**🔗 https://www.freepik.com**
 
-     🔗  https://www.freepik.com
+One of the largest collections of graphic resources — vectors, illustrations, PSD files, icons, and templates.
 
-     What it is:
-     One of the largest collections of graphic resources — vectors,
-     illustrations, PSD files, icons, and templates.
+- **Library:** 10+ million graphics
+- **Best for:** Vectors, illustrations, PSD mockups, icons, banners, posters
+- **Note:** 10 free downloads per day with a free account
 
-     Why use it:
-     •  10+ million graphics — massive library
-     •  Vectors, illustrations, mockups, icons, everything
-     •  Very high quality
-     •  10 free downloads per day with free account
+**License:** ✅ Free tier with attribution to Freepik.
 
-     Best for:
-     Vectors, illustrations, PSD mockups, icons, banners, posters
+---
 
-     License:
-     ✅  Free tier with attribution to Freepik
-     📝  Create a free account for 10 downloads/day
+## 4. ⭐ SVG Repo
 
+**🔗 https://www.svgrepo.com**
 
-4.  ⭐  SVG REPO
+A huge collection of SVG icons and vectors. Pure SVG format — easy to use in websites and apps.
 
-     🔗  https://www.svgrepo.com
+- **Library:** 500,000+ SVG icons
+- **Best for:** Icons for websites, apps, UI design, web development
 
-     What it is:
-     A huge collection of SVG icons and vectors. Pure SVG format
-     — easy to use in websites and apps.
+**License:** ✅ Free for commercial use (check each icon's license).
 
-     Why use it:
-     •  500,000+ SVG icons
-     •  Searchable by style (outline, filled, colored, gradient)
-     •  Copy-paste or download as SVG code
-     •  Perfect for web developers
+---
 
-     Best for:
-     Icons for websites, apps, UI design, web development
+## 5. ⭐ Flaticon
 
-     License:
-     ✅  Free for commercial use (check each icon)
-     ✅  Most icons are free to use
+**🔗 https://www.flaticon.com**
 
+The largest icon library in the world. Every style imaginable.
 
-5.  ⭐  FLATICON
+- **Library:** 6+ million icons
+- **Styles:** Flat, gradient, 3D, animated, outline, filled
+- **Best for:** Icons for any project — web, mobile, print, presentations
 
-     🔗  https://www.flaticon.com
+**License:** ✅ Free tier with attribution to the author.
 
-     What it is:
-     The largest icon library in the world. Every style imaginable.
+---
 
-     Why use it:
-     •  6+ million icons
-     •  Styles: flat, gradient, 3D, animated, outline, filled
-     •  Download as SVG, PNG, EPS, PSD
-     •  Icon packs for consistent design
+## 6. ⭐ Icons8
 
-     Best for:
-     Icons for any project — web, mobile, print, presentations
+**🔗 https://icons8.com**
 
-     License:
-     ✅  Free tier with attribution to the author
-     📝  Premium plan removes attribution requirement
+A design resource platform with icons, illustrations, photos, and music.
 
+- **Best for:** Icons, illustrations, UI design, app design
+- **Special:** Color customization, design tools included
 
-6.  ⭐  ICONS8
+**License:** ✅ Free tier with attribution to Icons8.
 
-     🔗  https://icons8.com
+---
 
-     What it is:
-     A design resource platform with icons, illustrations, photos, and music.
+## 7. ⭐ Drawkit
 
-     Why use it:
-     •  Huge library of icons in many styles
-     •  Also has illustrations, photos, and music
-     •  Color customization
-     •  Design tools included
+**🔗 https://www.drawkit.com**
 
-     Best for:
-     Icons, illustrations, UI design, app design
+Beautiful hand-drawn vector illustrations. Unique, artistic style.
 
-     License:
-     ✅  Free tier with attribution to Icons8
+- **Best for:** Unique illustrations, creative projects, modern web design
 
+**License:** ✅ Free for personal & commercial projects.
 
-7.  ⭐  DRAWKIT
+---
 
-     🔗  https://www.drawkit.com
+## 8. ⭐ Manypixels
 
-     What it is:
-     Beautiful hand-drawn vector illustrations. Unique, artistic style.
+**🔗 https://www.manypixels.co**
 
-     Why use it:
-     •  Hand-drawn, artistic style
-     •  Freebies section with high-quality resources
-     •  Templates and UI kits included
+Collection of free isometric (3D-style) and 2D illustrations. Color-customizable like unDraw.
 
-     Best for:
-     Unique illustrations, creative projects, modern web design
+- **Best for:** Isometric illustrations, tech websites, app graphics
 
-     License:
-     ✅  Free for personal & commercial projects
+**License:** ✅ Free for commercial use. No attribution needed.
 
+---
 
-8.  ⭐  MANYPIXELS
+## 💡 Tips for Beginners
 
-     🔗  https://www.manypixels.co
-
-     What it is:
-     Collection of free isometric and 2D illustrations. Color-customizable
-     like unDraw.
-
-     Why use it:
-     •  Isometric (3D-style) illustrations
-     •  Color-customizable
-     •  Modern and clean style
-
-     Best for:
-     Isometric illustrations, tech websites, app graphics
-
-     License:
-     ✅  Free for commercial use
-     ✅  No attribution required
-
-
-💡  TIPS FOR BEGINNERS:
-
-     •  Start with unDraw for modern illustrations — it's the easiest
-     •  Use SVG Repo when you need icons for a website
-     •  Freepik is great but make a free account for more downloads
-     •  SVG files can be resized to any size without losing quality
-     •  PNG files have transparent backgrounds (no white box around them)
+- Start with **unDraw** for modern illustrations — it's the easiest
+- Use **SVG Repo** when you need icons for a website
+- **Freepik** is great but make a free account for more downloads
+- **SVG files** can be resized to any size without losing quality
+- **PNG files** have transparent backgrounds (no white box around them)

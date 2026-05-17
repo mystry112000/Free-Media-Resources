@@ -1,171 +1,106 @@
-╔══════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                      ║
-║   📸  STOCK PHOTOS  —  Free websites for high-quality images                        ║
-║                                                                                      ║
-║   What are stock photos? Professional photos that anyone can download and use.       ║
-║   Perfect for: websites, social media posts, presentations, thumbnails, banners.     ║
-║                                                                                      ║
-╚══════════════════════════════════════════════════════════════════════════════════════╝
+# 📸 Free Stock Photos
 
+Professional photos that anyone can download and use for free. Perfect for websites, social media posts, presentations, thumbnails, and banners.
 
-1.  ⭐  UNSPLASH
+---
 
-     🔗  https://unsplash.com
+## 1. ⭐ Unsplash
 
-     What it is:
-     The most popular free stock photo website. Professional photographers
-     upload their best work here for free.
+**🔗 https://unsplash.com**
 
-     Why use it:
-     •  5+ million photos — everything you can imagine
-     •  Very high quality (professional cameras)
-     •  Easy to search with keywords
-     •  No account needed to download
+The most popular free stock photo website. Professional photographers upload their best work here for free.
 
-     Best for:
-     Website backgrounds, blog posts, social media, branding, presentations
+- **Library:** 5+ million photos
+- **Quality:** ⭐⭐⭐⭐⭐ Professional grade
+- **Best for:** Website backgrounds, blog posts, social media, branding, presentations
 
-     License:
-     ✅  Free for commercial & personal use
-     ✅  No attribution required (but nice to credit the photographer)
-     ✅  You can edit and modify the photos
+**License:** ✅ Free for commercial & personal use. No attribution needed. You can edit and modify.
 
+---
 
-2.  ⭐  PEXELS
+## 2. ⭐ Pexels
 
-     🔗  https://www.pexels.com
+**🔗 https://www.pexels.com**
 
-     What it is:
-     A huge collection of free photos AND videos. Very similar to Unsplash
-     but also has a large video library.
+A huge collection of free photos AND videos. Very similar to Unsplash but also has a large video library.
 
-     Why use it:
-     •  3+ million photos + videos in one place
-     •  High quality, diverse content
-     •  Great search and curated collections
-     •  Also has stock videos (same license)
+- **Library:** 3+ million photos + videos
+- **Quality:** ⭐⭐⭐⭐⭐
+- **Best for:** Marketing, social media, blog posts, video projects
 
-     Best for:
-     Marketing, social media, blog posts, video projects
+**License:** ✅ Free for commercial & personal use. No attribution needed. You can edit and modify.
 
-     License:
-     ✅  Free for commercial & personal use
-     ✅  No attribution required
-     ✅  You can edit and modify
+---
 
+## 3. ⭐ Pixabay
 
-3.  ⭐  PIXABAY
+**🔗 https://pixabay.com**
 
-     🔗  https://pixabay.com
+An all-in-one free media website. Photos, vectors, illustrations, videos, and music — all in one place.
 
-     What it is:
-     An all-in-one free media website. Photos, vectors, illustrations,
-     videos, and music — all in one place.
+- **Library:** 4+ million assets
+- **Quality:** ⭐⭐⭐⭐ (varies, but great for quick finds)
+- **Best for:** Quick finds, variety, all-in-one resource
 
-     Why use it:
-     •  4+ million assets (not just photos)
-     •  Good variety — nature, people, business, technology
-     •  Also has vectors, videos, and music
-     •  Quality varies but great for quick finds
+**License:** ✅ Free for commercial & personal use. No attribution needed.
 
-     Best for:
-     Quick finds, variety, all-in-one resource
+---
 
-     License:
-     ✅  Free for commercial & personal use
-     ✅  No attribution required
-     ✅  You can edit and modify
+## 4. ⭐ Burst (by Shopify)
 
+**🔗 https://burst.shopify.com**
 
-4.  ⭐  BURST  (by Shopify)
+A stock photo website made by Shopify specifically for entrepreneurs and business owners.
 
-     🔗  https://burst.shopify.com
+- **Library:** 10,000+ photos
+- **Best for:** E-commerce, product photography, business content, ads
 
-     What it is:
-     A stock photo website made by Shopify specifically for entrepreneurs
-     and business owners.
+**License:** ✅ Free for commercial & personal use. No attribution needed.
 
-     Why use it:
-     •  Focused on business, e-commerce, and product photography
-     •  High-quality, professional shots
-     •  Free for commercial use
+---
 
-     Best for:
-     E-commerce websites, product photos, business content, ads
+## 5. ⭐ Kaboompics
 
-     License:
-     ✅  Free for commercial & personal use
-     ✅  No attribution required
+**🔗 https://kaboompics.com**
 
+A stock photo site with a unique feature — each photo comes with a color palette suggestion.
 
-5.  ⭐  KABOOMPICS
+- **Library:** 10,000+ photos
+- **Best for:** Instagram content, social media, lifestyle blogs, branding
+- **Special:** Color-coordinated photos with matching palette suggestions
 
-     🔗  https://kaboompics.com
+**License:** ✅ Free for commercial & personal use. Attribution appreciated.
 
-     What it is:
-     A stock photo site with a unique feature — each photo comes with
-     a color palette suggestion!
+---
 
-     Why use it:
-     •  Beautiful, aesthetic photos
-     •  Color-coordinated — each photo suggests matching colors
-     •  Great for social media content creators
-     •  Lifestyle and flat lay photography
+## 6. ⭐ LibreShot
 
-     Best for:
-     Instagram content, social media, lifestyle blogs, branding
+**🔗 https://libreshot.com**
 
-     License:
-     ✅  Free for commercial & personal use
-     ✅  Attribution appreciated (not required)
+A smaller but high-quality stock photo site with unique photos you won't find everywhere.
 
+- **Best for:** When you want something different from the usual stock photos
 
-6.  ⭐  LIBRESHOT
+**License:** ✅ Free for commercial & personal use. Attribution appreciated.
 
-     🔗  https://libreshot.com
+---
 
-     What it is:
-     A smaller but high-quality stock photo site with unique photos
-     you won't find everywhere.
+## 7. ⭐ Life of Pix
 
-     Why use it:
-     •  Less generic than Unsplash
-     •  Curated collection — quality over quantity
-     •  Unique perspectives and subjects
+**🔗 https://www.lifeofpix.com**
 
-     Best for:
-     When you want something different from the usual stock photos
+A stock photo site curated by professional photographers. Artistic, editorial-style photography.
 
-     License:
-     ✅  Free for commercial & personal use
-     ✅  Attribution appreciated
+- **Best for:** Artistic projects, editorial content, unique website backgrounds
 
+**License:** ✅ Free for commercial & personal use. No attribution needed.
 
-7.  ⭐  LIFE OF PIX
+---
 
-     🔗  https://www.lifeofpix.com
+## 💡 Tips for Beginners
 
-     What it is:
-     A stock photo site curated by professional photographers.
-     Artistic, editorial-style photography.
-
-     Why use it:
-     •  High-resolution, artistic photos
-     •  Less commercial, more editorial feel
-     •  Curated by real photographers
-
-     Best for:
-     Artistic projects, editorial content, unique website backgrounds
-
-     License:
-     ✅  Free for commercial & personal use
-     ✅  No attribution required
-
-
-💡  TIPS FOR BEGINNERS:
-
-     •  Start with Unsplash or Pexels — they're the easiest to use
-     •  Use keywords that describe what you need (e.g., "coffee shop" or "sunset beach")
-     •  Most sites let you filter by orientation (landscape/portrait), color, and size
-     •  Download the size you need — you don't always need the largest resolution
-     •  Bookmark your favorite photos for later (create a free account if needed)
+- Start with **Unsplash** or **Pexels** — they're the easiest to use
+- Use keywords that describe what you need (e.g., "coffee shop" or "sunset beach")
+- Most sites let you filter by orientation (landscape/portrait), color, and size
+- Download the size you need — you don't always need the largest resolution
+- Bookmark your favorite photos for later (create a free account if needed)
