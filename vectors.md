@@ -108,6 +108,19 @@ Collection of free isometric (3D-style) and 2D illustrations. Color-customizable
 
 ---
 
+## 9. ⭐ Thridy
+
+**🔗 https://thridy.com**
+
+A library of 13,000+ free 3D icons, all rendered in one consistent style so your icons actually match each other.
+
+- **Library:** 13,000+ 3D icons
+- **Best for:** 3D icons for websites, apps, presentations, and social graphics
+- **Special:** One consistent style across the whole library; downloads are high-resolution transparent PNGs
+
+**License:** ✅ Free for personal & commercial use. No attribution or signup needed.
+
+---
 ## 💡 Tips for Beginners
 
 - Start with **unDraw** for modern illustrations — it's the easiest
