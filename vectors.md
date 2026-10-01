@@ -108,6 +108,20 @@ Collection of free isometric (3D-style) and 2D illustrations. Color-customizable
 
 ---
 
+## 9. ⭐ ClikPNG
+
+**🔗 https://www.clikpng.com**
+
+Free transparent PNG images (cut-outs with the background already removed) — cars, food, fruits, vegetables, nature and more.
+
+- **Library:** 25,000+ PNG images
+- **Best for:** Thumbnails, posters, menus, presentations, social media graphics
+- **Special:** No sign-up needed, plus a free online background remover
+
+**License:** ✅ Free for personal & commercial use. Brand logos are for editorial use only.
+
+---
+
 ## 💡 Tips for Beginners
 
 - Start with **unDraw** for modern illustrations — it's the easiest
